@@ -15,6 +15,6 @@
 }
 .green{
     color:rgb(216, 29, 144);
-    border: 4px rgb(78, 0, 20) solid;
+    border: 4px rgb(78, 0, 20) dotted;
 
 }
