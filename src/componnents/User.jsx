@@ -8,10 +8,10 @@ const User=observer((store)=>{
     return(
 <>
 
-<div style={{position: 'fixed', top: '2px',marginLeft: '300px'}}>
+<div style={{position: 'fixed', top: '2px',marginLeft: '301px'}}>
     <Detailsview/>
     </div>
-<div  style={{ position: 'relative', top: '20px'}}>
+<div  style={{ position: 'relative', top: '25px'}}>
     <Service/>
 </div>
 </>)
