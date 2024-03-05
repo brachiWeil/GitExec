@@ -11,7 +11,7 @@ const User=observer((store)=>{
 <div style={{position: 'fixed', top: '2px',marginLeft: '300px'}}>
     <Detailsview/>
     </div>
-<div  style={{ position: 'relative', top: '20px'}}>
+<div  style={{ position: 'relative', top: '21px'}}>
     <Service/>
 </div>
 </>)
